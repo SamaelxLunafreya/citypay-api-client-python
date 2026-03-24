@@ -312,8 +312,4 @@ Authentication schemes defined for the API:
 - **Location**: URL query string
 
 
-## Author
-
-support@citypay.com
-
 
